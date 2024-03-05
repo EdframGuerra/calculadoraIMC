@@ -18,4 +18,4 @@ Onde,
 
 Se minha altura é 1,79m e meu peso, 76kg, qual é meu IMC?
 
-## Obs.: Teste com outros valores e veja o que acontece.
+Obs.: Teste com outros valores e veja o que acontece.
